@@ -1,0 +1,31 @@
+<svg width="116" height="121" viewBox="0 0 116 121" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g filter="url(#filter0_d_7441_70104)">
+    <circle cx="58.3849" cy="43.402" r="42.5397" fill="url(#paint0_linear_7441_70104)"/>
+  </g>
+  <circle cx="58.3869" cy="43.4011" r="39.528" fill="url(#paint1_linear_7441_70104)"/>
+  <circle cx="58.3851" cy="43.4007" r="34.2576" fill="url(#paint2_linear_7441_70104)"/>
+  <defs>
+    <filter id="filter0_d_7441_70104" x="0.845215" y="0.862305" width="115.079" height="120.079" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feMorphology radius="9" operator="erode" in="SourceAlpha" result="effect1_dropShadow_7441_70104"/>
+      <feOffset dy="20"/>
+      <feGaussianBlur stdDeviation="12"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_7441_70104"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_7441_70104" result="shape"/>
+    </filter>
+    <linearGradient id="paint0_linear_7441_70104" x1="58.3849" y1="0.862305" x2="58.3849" y2="85.9416" gradientUnits="userSpaceOnUse">
+      <stop stop-color="white"/>
+      <stop offset="1" stop-color="#FFEAE8"/>
+    </linearGradient>
+    <linearGradient id="paint1_linear_7441_70104" x1="58.3869" y1="3.87305" x2="58.3869" y2="82.9291" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FDAA35"/>
+      <stop offset="1" stop-color="#F85247"/>
+    </linearGradient>
+    <linearGradient id="paint2_linear_7441_70104" x1="138.894" y1="139.764" x2="31.6863" y2="18.79" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FD9D38"/>
+      <stop offset="1" stop-color="#FBE3FF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+</svg>
